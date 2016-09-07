@@ -1,0 +1,54 @@
+# Temporary files
+*~
+*.old
+\#*\#
+.\#*
+*.pid
+.DS_Store
+
+# Python files
+*.py[cod]
+
+# Installer logs
+pip-log.txt
+
+# Unit test / Coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# SQLite databases
+*.sqlite
+
+# Redis database
+*.rdb
+
+# Virtual environment
+venv
+
+# Environment file
+.env
+
+# Redis server
+redis-stable
+
+# Celery beat schedule DB
+celerybeat-schedule*
+
+# Log files
+logs
+*.log
+
+# Supervisord config
+*.conf
+
+# Jetbrain ide
+.idea
+
+# Resources
+resources
+
+# setup dirs
+build
+dist
+Flask_SVM.egg-info
